@@ -6,10 +6,10 @@ import type { MarkList } from "./types/markList";
 
 function App() {
   const { data } = useSearch();
-  const [list, setList] = useState<MarkList>([]);
+  const [list, setList] = useState<MarkList>(json as MarkList);
 
   useEffect(() => {
-    console.log(data);
+    if (data === 0) return;
     const marks = (json as MarkList)
       .filter((value) => parseFloat(value.mark.replace(",", ".")) <= data)
       .sort((a, b) => parseFloat(b.mark.replace(',', '.')) - parseFloat(a.mark.replace(',', '.')));

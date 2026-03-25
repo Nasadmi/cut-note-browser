@@ -23,17 +23,17 @@ function App() {
         <table className="w-[98%] mx-auto rounded-2xl overflow-auto font-medium">
           <thead>
             <tr>
-              <th className="bg-indigo-300 rounded-tl-2xl">Universidad</th>
-              <th className="bg-purple-700 border-x-2 border-x-slate-900">Carrera</th>
-              <th className="bg-violet-500 rounded-tr-2xl">Nota de corte</th>
+              <th className="bg-indigo-500 rounded-tl-2xl text-white">Universidad</th>
+              <th className="bg-purple-700 border-x-4 border-x-slate-900 text-white">Carrera</th>
+              <th className="bg-violet-500 rounded-tr-2xl text-white">Nota de corte</th>
             </tr>
           </thead>
           <tbody>
             {list.map((value, i) => (
               <tr key={i}>
-                <td className="bg-indigo-300 px-1 border-y-2 border-y-slate-900 py-2">{value.college}</td>
-                <td className="bg-purple-700 border-y-2 border-y-slate-900 border-x-2 border-x-slate-900 px-1">{value.career}</td>
-                <td className="bg-violet-500 border-y-2 border-y-slate-900 px-1">{value.mark}</td>
+                <td className="bg-indigo-500 px-1 border-y-4 border-y-slate-900 py-2 text-white text-center">{value.college}</td>
+                <td className="bg-purple-700 border-y-4 border-y-slate-900 border-x-4 border-x-slate-900 px-1 text-white text-center">{value.career}</td>
+                <td className="bg-violet-500 border-y-4 border-y-slate-900 px-1 text-white text-center">{value.mark}</td>
               </tr>
             ))}
           </tbody>

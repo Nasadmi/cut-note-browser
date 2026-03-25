@@ -1,0 +1,2897 @@
+[
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Arqueología",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Bellas Artes",
+    "mark": "9,936"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ciencias de las Religiones",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Conservación y Restauración del Patrimonio Cultural",
+    "mark": "9,600"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Diseño",
+    "mark": "11,650"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Español: Lengua y Literatura",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Estudios Ingleses",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Estudios Semíticos e Islámicos",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Estudios Teatrales",
+    "mark": "5,378"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Filología Clásica",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Filosofía",
+    "mark": "5,940"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Filosofía, Política y Economía",
+    "mark": "8,384"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Historia",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Historia del Arte",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Lenguas Modernas y sus Literaturas",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Lingüística y Lenguas Aplicadas",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Literatura General y Comparada",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Musicología",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Traducción e Interpretación",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Biología",
+    "mark": "9,936"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Bioquímica",
+    "mark": "12,262"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ciencia y Tecnología de los Alimentos",
+    "mark": "8,560"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Física",
+    "mark": "11,811"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Geología",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Matemáticas",
+    "mark": "12,250"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Matemáticas y Ciencia de Datos",
+    "mark": "11,964"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Química",
+    "mark": "10,111"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Enfermería",
+    "mark": "11,603"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Farmacia",
+    "mark": "11,641"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Fisioterapia",
+    "mark": "11,463"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Logopedia",
+    "mark": "9,200"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Medicina",
+    "mark": "13,100"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Nutrición Humana y Dietética",
+    "mark": "10,100"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Odontología",
+    "mark": "12,652"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "ptica y Optometría",
+    "mark": "7,863"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Podología",
+    "mark": "9,453"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Psicología",
+    "mark": "10,525"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Terapia Ocupacional",
+    "mark": "9,089"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Veterinaria",
+    "mark": "11,814"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Desarrollo de Videojuegos",
+    "mark": "9,689"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ingeniería de Computadores",
+    "mark": "9,480"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ingeniería de Datos e Inteligencia Artificial",
+    "mark": "12,775"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ingeniería de Materiales",
+    "mark": "9,203"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ingeniería del Software",
+    "mark": "10,150"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ingeniería Electrónica de Comunicaciones",
+    "mark": "8,653"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ingeniería Geológica",
+    "mark": "5,361"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ingeniería Informática",
+    "mark": "10,761"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ingeniería Matemática",
+    "mark": "12,625"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ingeniería Química",
+    "mark": "11,033"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Administración y Dirección de Empresas",
+    "mark": "9,564"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Administración y Dirección de Empresas (en inglés",
+    "mark": "10,714"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Antropología Social y Cultural",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ciencia de los Datos Aplicada",
+    "mark": "10,937"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ciencias Políticas",
+    "mark": "5,778"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Comercio",
+    "mark": "8,150"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Comunicación Audiovisual",
+    "mark": "9,544"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Criminología",
+    "mark": "11,233"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Derecho",
+    "mark": "8,439"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Economía",
+    "mark": "8,800"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Economía (en inglés",
+    "mark": "9,545"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Educación Social",
+    "mark": "8,500"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Estadística Aplicada",
+    "mark": "8,878"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Finanzas, Banca y Seguros",
+    "mark": "9,420"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Geografía y Ordenación del Territorio",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Gestión y Administración Pública",
+    "mark": "5,228"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Información y Documentación",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Maestro de Educación Infantil",
+    "mark": "9,050"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Maestro de Educación Primaria",
+    "mark": "10,262"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Pedagogía",
+    "mark": "8,600"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Periodismo",
+    "mark": "6,575"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Publicidad y Relaciones Públicas",
+    "mark": "10,364"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Relaciones Internacionales",
+    "mark": "11,185"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Relaciones Laborales y Recursos Humanos",
+    "mark": "7,350"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Sociología",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Trabajo Social",
+    "mark": "7,140"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Turismo",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "ADE - Ingeniería Informática",
+    "mark": "11,316"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ciencias Políticas - Filosofía",
+    "mark": "5,089"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Derecho - ADE",
+    "mark": "10,177"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Derecho - Ciencias Políticas",
+    "mark": "10,150"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Derecho - Estudios Jurídico Militares",
+    "mark": "8,875"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Derecho - Filosofía",
+    "mark": "8,428"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Derecho - Relaciones Laborales y Recursos Humanos",
+    "mark": "8,114"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Economía - Matemáticas y Ciencia de Datos",
+    "mark": "12,716"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Economía - Relaciones Internacionales",
+    "mark": "12,315"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Farmacia - Nutrición Humana y Dietética",
+    "mark": "12,328"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Gestión y Administración Pública - Economía",
+    "mark": "8,375"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Historia - Filología Clásica",
+    "mark": "8,810"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Ingeniería Informática - Matemáticas",
+    "mark": "13,465"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Maestro de Ed. Infantil - Maestro de Ed. Primaria",
+    "mark": "11,199"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Maestro de Educación Infantil - Pedagogía",
+    "mark": "10,275"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Maestro de Educación Primaria - Pedagogía",
+    "mark": "11,462"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Matemáticas - Física",
+    "mark": "13,698"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Psicología - Logopedia",
+    "mark": "10,525"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Química - Bioquímica",
+    "mark": "12,617"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Sociología - Relaciones Internacionales",
+    "mark": "10,514"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Turismo - Comercio",
+    "mark": "7,211"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Bachelor of Arts in European Studies",
+    "mark": "5,750"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Titulación Internacional en ADE (UCM-HWR Berlín",
+    "mark": "11,948"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Titulación Internacional en Derecho (UCM-Sorbona",
+    "mark": "11,449"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Titulación Internacional en Economía (UCM-Sorbona",
+    "mark": "12,062"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Administración y Dirección de Empresas",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Derecho",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Derecho - ADE",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Psicología",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Educación Social",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Maestro de Educación Infantil",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Maestro de Educación Primaria",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Maestro de Educación Primaria - Pedagogía",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Pedagogía",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Derecho",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "career": "Derecho",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Arqueología",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Estudios Clásicos y de la Antigüedad",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Estudios de Asia y África (Árabe",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Estudios de Asia y África (Chino",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Estudios de Asia y África (Japonés",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Estudios Hispánicos: Lengua Española y sus Literaturas",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Estudios Ingleses",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Filosofía",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Historia",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Historia del Arte",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Historia y Ciencias de la Música y Tecnología Musical",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Lenguas Modernas, Cultura y Comunicación-Español",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Lenguas Modernas, Cultura y Comunicación-Francés",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Lenguas Modernas, Cultura y Comunicación-Inglés",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Traducción e Interpretación (Francés",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Traducción e Interpretación (Inglés",
+    "mark": "6,700"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Biología",
+    "mark": "9,714"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Bioquímica",
+    "mark": "12,067"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ciencia y Tecnología de los Alimentos",
+    "mark": "8,528"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ciencias Ambientales",
+    "mark": "7,686"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Física",
+    "mark": "12,014"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Matemáticas",
+    "mark": "11,937"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Química",
+    "mark": "9,986"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Química (grupo bilingüe: español/inglés",
+    "mark": "9,102"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Enfermería (Facultad Medicina UAM",
+    "mark": "11,714"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Medicina",
+    "mark": "12,978"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Nutrición Humana y Dietética",
+    "mark": "10,003"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Psicología",
+    "mark": "10,426"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Administración y Dirección de Empresas",
+    "mark": "10,203"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Análisis de Datos en la Empresa / Business Analytics",
+    "mark": "11,232"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Antropología Social y Cultural",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ciencias de la Actividad Física y del Deporte",
+    "mark": "10,560"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ciencia Política y Administración Pública",
+    "mark": "8,886"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Derecho",
+    "mark": "9,837"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Derecho - Mención en Derecho de la energía y del medio ambiente",
+    "mark": "9,214"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Derecho - Mención en Derecho de los negocios internacionales",
+    "mark": "11,575"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Derecho - Mención en Derecho digital y de las tecnologías",
+    "mark": "10,958"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Derecho - Mención en Derechos humanos y justicia social",
+    "mark": "10,853"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Economía",
+    "mark": "9,603"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Economía (Grupo bilingüe: español/inglés",
+    "mark": "9,190"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Economía y Finanzas / Economics and Finance",
+    "mark": "10,905"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Estudios Internacionales",
+    "mark": "10,853"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Geografía, Geotecnologías y Sostenibilidad Territorial",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Gestión Aeronáutica",
+    "mark": "10,715"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Maestro en Educación Infantil",
+    "mark": "8,911"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Maestro en Educación Primaria",
+    "mark": "9,939"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Turismo",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ciencia e Ingeniería de Datos",
+    "mark": "11,311"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ingeniería Biomédica",
+    "mark": "12,500"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ingeniería de Tecnologías de Telecomunicación",
+    "mark": "9,560"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ingeniería Informática",
+    "mark": "10,715"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ingeniería Química",
+    "mark": "10,528"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Derecho - Administración y Dirección de Empresas",
+    "mark": "10,928"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Derecho - Ciencia Política y Administración Pública",
+    "mark": "8,911"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Estudios Internacionales - Estudios de Asia y África (árabe",
+    "mark": "10,336"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Filosofía - Historia",
+    "mark": "12,264"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Filosofía - Historia y CC. de la Música y Tecnología Musical",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Historia - Estudios Internacionales",
+    "mark": "12,964"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Historia del Arte - Estudios Clásicos y de la Antigüedad",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Historia del Arte - Historia",
+    "mark": "12,513"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ingeniería Informática - Matemáticas",
+    "mark": "13,136"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Maestro en Educación Infantil - Maestro en Educación Primaria",
+    "mark": "10,278"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Nutrición Humana y Dietética - Ciencia y Tecnología de los Alimentos",
+    "mark": "10,870"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ciencia, Tecnología y Humanidades (UAB, UAM y UC3M",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Ciencias (UAB, UAM y UC3M",
+    "mark": "7,700"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Filosofia, Política y Economía (UAB, UAM, UC3M y UPF",
+    "mark": "11,820"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Diseño y Gestión de Proyectos Transmedia",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Educación Social",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Fisioterapia",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Maestro en Educación Infantil",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Maestro en Educación Primaria",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Podología",
+    "mark": "7,203"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Terapia Ocupacional",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Trabajo Social",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Enfermería",
+    "mark": "10,816"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Enfermería",
+    "mark": "10,486"
+  },
+  {
+    "college": "UNIVERSIDAD AUTÓNOMA DE MADRID",
+    "career": "Enfermería (Campus Villalba",
+    "mark": "10,430"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Estudios Hispánicos",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Estudios Ingleses",
+    "mark": "6,864"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Historia",
+    "mark": "5,710"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Humanidades",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Lenguas Modernas y Traducción",
+    "mark": "5,659"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Lenguas Modernas y Traducción (Guadalajara",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Biología",
+    "mark": "9,700"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ciencias Ambientales",
+    "mark": "7,106"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Criminalística: Ciencias y Tecnologías Forenses",
+    "mark": "11,636"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Física e Instrumentación Espacial",
+    "mark": "11,830"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Química",
+    "mark": "9,864"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Biología Sanitaria",
+    "mark": "11,839"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ciencias de la Actividad Física y del Deporte",
+    "mark": "10,325"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Enfermería",
+    "mark": "11,426"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Enfermería (Guadalajara",
+    "mark": "11,100"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Enfermería (Torrejón de Ardoz",
+    "mark": "11,303"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Farmacia",
+    "mark": "11,220"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Fisioterapia",
+    "mark": "10,850"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Fisioterapia (Torrejón de Ardoz",
+    "mark": "10,550"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Medicina",
+    "mark": "12,871"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Administración y Dirección de Empresas",
+    "mark": "9,225"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Administración y Dirección de Empresas (Guadalajara",
+    "mark": "7,882"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Comunicación Audiovisual (Guadalajara",
+    "mark": "7,890"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Finanzas",
+    "mark": "7,541"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Derecho",
+    "mark": "8,328"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Economía",
+    "mark": "7,664"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Economía y Negocios Internacionales",
+    "mark": "11,203"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Economía y Negocios Internaciones (docencia en inglés",
+    "mark": "10,428"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Magisterio de Educación Infantil (Guadalajara",
+    "mark": "8,253"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Magisterio de Educación Primaria (bilingüe) (docencia en inglés) (Guadalajara",
+    "mark": "5,561"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Magisterio de Educación Primaria (Guadalajara",
+    "mark": "8,700"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Turismo (Guadalajara",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Arquitectura Técnica y Edificación (Guadalajara",
+    "mark": "7,707"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Fundamentos de Arquitectura y Urbanismo",
+    "mark": "10,148"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería de Computadores",
+    "mark": "8,575"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería Electrónica de Comunicaciones",
+    "mark": "7,504"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería Electrónica y Automática Industrial",
+    "mark": "9,976"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería en Sistemas de Información",
+    "mark": "8,139"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería en Sistemas de Telecomunicación",
+    "mark": "7,800"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería en Tecnologías de Telecomunicación",
+    "mark": "8,003"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería en Tecnologías Industriales",
+    "mark": "11,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería Informática",
+    "mark": "10,700"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería Telemática",
+    "mark": "7,575"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Matemáticas y Computación (Guadalajara",
+    "mark": "10,064"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Derecho - Administración y Dirección de Empresas",
+    "mark": "9,516"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Estudios Ingleses - Lenguas Modernas y Traducción",
+    "mark": "9,334"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Humanidades - Magisterio en Educación Primaria",
+    "mark": "9,489"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería Informática - Administración y Dirección de Empresas",
+    "mark": "10,436"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Ingeniería Electrónica de Comunicaciones - Ing. Electrónica y Automática Industrial",
+    "mark": "8,987"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Magisterio de Educación Infantil - Magisterio de Educación Primaria (Guadalajara",
+    "mark": "9,360"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Turismo - Admón. y Dirección de Empresas (Guadalajara",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Educación Social",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Magisterio de Educación Infantil",
+    "mark": "5,336"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Magisterio de Educación Infantil (bilingüe) (docencia en inglés",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Magisterio de Educación Infantil (semipresencial",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Magisterio de Educación Primaria",
+    "mark": "7,140"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Magisterio de Educación Primaria (bilingüe) (docencia en inglés",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Magisterio de Educación Primaria (semipresencial",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD DE ALCALÁ",
+    "career": "Psicología",
+    "mark": "9,199"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Estudios Culturales (bilingüe",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Humanidades digitales",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Neurociencia (en inglés",
+    "mark": "13,100"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Administración de Empresas (español o inglés",
+    "mark": "11,516"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Administración de Empresas (Colmenarejo",
+    "mark": "10,970"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Análisis de datos para la Empresa",
+    "mark": "11,567"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ciencias Políticas (español o bilingüe",
+    "mark": "9,542"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Comunicación Audiovisual (español o bilingüe",
+    "mark": "10,109"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Derecho",
+    "mark": "11,561"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Derecho (Colmenarejo",
+    "mark": "10,665"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Economía (español o inglés",
+    "mark": "11,263"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Empresa y Tecnología (en inglés",
+    "mark": "12,213"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Estudios Internacionales (en inglés",
+    "mark": "12,063"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Finanzas y Contabilidad (español o inglés",
+    "mark": "11,043"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Gestión de la Informacion y Contenidos Digitales",
+    "mark": "9,836"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Historia y Política (bilingüe",
+    "mark": "8,314"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Periodismo (español o bilingüe",
+    "mark": "8,903"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Relaciones Laborales y Empleo",
+    "mark": "7,503"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Sociología (español o bilingüe",
+    "mark": "7,294"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Sostenibilidad Urbana (Grado de la Alianza Europea YUFE",
+    "mark": "9,920"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Turismo",
+    "mark": "6,836"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ciencia e Ingeniería de Datos (en inglés",
+    "mark": "11,556"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Aeroespacial (en inglés",
+    "mark": "13,300"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Biomédica (en inglés",
+    "mark": "12,843"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería de Comunicaciones Móviles y Espaciales (español o bilingüe",
+    "mark": "10,253"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería de Internet",
+    "mark": "9,764"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería de la Energía (en inglés",
+    "mark": "11,175"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería de Sonido e Imagen (español o bilingüe",
+    "mark": "10,115"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Eléctrica (español o bilingüe",
+    "mark": "10,967"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Electrónica Industrial y Automática (español o bilingüe",
+    "mark": "10,636"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería en Tecnologías de Telecomunicación (español o bilingüe",
+    "mark": "10,713"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería en Tecnologías Industriales (español o bilingüe",
+    "mark": "11,966"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Física (en inglés",
+    "mark": "13,225"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Informática (español, bilingüe o inglés",
+    "mark": "10,978"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Informática (Colmenarejo",
+    "mark": "10,364"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Mecánica (español o bilingüe",
+    "mark": "11,664"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Robótica (en inglés",
+    "mark": "11,489"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Inteligencia Artificial",
+    "mark": "11,775"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Inteligencia Artificial (Colmenarejo",
+    "mark": "10,448"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Matemática Aplicada",
+    "mark": "12,024"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Matemáticas y Computación (en inglés",
+    "mark": "12,224"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Programa Académico de Ingeniería Informática vía Grado en Ing. Informática (bilingüe",
+    "mark": "12,825"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ciencias Políticas y Sociología",
+    "mark": "9,041"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ciencia e Ingeniería de Datos e Ingeniería en Tecnologías de Telecomunicación (bilingüe",
+    "mark": "12,124"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Derecho y Administración de Empresas (español o bilingüe",
+    "mark": "12,600"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Derecho y Administración de Empresas (Colmenarejo",
+    "mark": "11,250"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Derecho y Ciencias Políticas",
+    "mark": "11,178"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Derecho y Economía (español o bilingüe",
+    "mark": "12,239"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Estudios Internacionales y Administración de Empresas (en inglés",
+    "mark": "13,119"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Estudios Internacionales y Ciencias Políticas (bilingüe",
+    "mark": "12,475"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Estudios Internacionales y Derecho (bilingue",
+    "mark": "13,175"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Estudios Internacionales y Economía (en inglés",
+    "mark": "12,830"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Física e Ingeniería en Tecnologías Industriales (bilingüe",
+    "mark": "13,464"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Informática y Administración de Empresas (Colmenarejo",
+    "mark": "11,386"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ingeniería Informática y Administración de Empresas (Leganes-Getafe",
+    "mark": "12,053"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Periodismo y Comunicación Audiovisual (español o bilingüe",
+    "mark": "10,939"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Periodismo y Humanidades",
+    "mark": "7,816"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ciencia, Tecnología y Humanidades (UAB, UAM y UC3M",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Ciencias (UAB, UAM y UC3M",
+    "mark": "8,661"
+  },
+  {
+    "college": "UNIVERSIDAD CARLOS III DE MADRID",
+    "career": "Filosofía, Política y Economía (bilingüe) (UAB, UAM, UC3M y UPF",
+    "mark": "12,104"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ciencias Agrarias y Bioeconomía",
+    "mark": "6,851"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Matemáticas",
+    "mark": "12,058"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ciencias de la Actividad Física y del Deporte (INEF",
+    "mark": "8,925"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Arquitecto/a (PARS",
+    "mark": "13,089"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Arquitectura Naval / Ingeniería Marítima",
+    "mark": "10,467"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Biotecnología",
+    "mark": "12,728"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ciencia de Datos e Inteligencia Artificial (Campus de Montegancedo",
+    "mark": "11,899"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ciencia de Datos e Inteligencia Artificial (Campus Sur",
+    "mark": "12,139"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Edificación",
+    "mark": "7,637"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Fundamentos de la Arquitectura",
+    "mark": "11,091"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Gestión y Operaciones del Transporte Aéreo",
+    "mark": "11,478"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Aeroespacial",
+    "mark": "12,484"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a Aeronáutico/a (PARS",
+    "mark": "13,411"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Agrícola",
+    "mark": "8,173"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a Agrónomo/a (PARS",
+    "mark": "10,814"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Agroambiental",
+    "mark": "5,750"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Alimentaria",
+    "mark": "7,015"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Biomédica",
+    "mark": "12,553"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a Biomédico/a (PARS",
+    "mark": "13,150"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Civil y Territorial (Moncloa",
+    "mark": "10,053"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Civil y Territorial (Retiro",
+    "mark": "9,675"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a de Caminos, Canales y Puertos (PARS",
+    "mark": "11,961"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería de Computadores",
+    "mark": "9,311"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería de la Energía",
+    "mark": "11,039"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería de las Tecnologías de la Información Geoespacial",
+    "mark": "7,310"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería de Materiales",
+    "mark": "9,561"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a de Materiales (PARS",
+    "mark": "10,728"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a de Minas (PARS",
+    "mark": "10,388"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a de Montes (PARS",
+    "mark": "8,739"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería de Organización",
+    "mark": "12,636"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería de Sistemas de Telecomunicación",
+    "mark": "9,186"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería de Sonido e Imagen",
+    "mark": "8,066"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería de Tecnologías y Servicios de Telecomunicación",
+    "mark": "9,408"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a de Telecomunicación (PARS",
+    "mark": "11,686"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería del Medio Natural",
+    "mark": "5,744"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería del Software",
+    "mark": "10,036"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a del Software (PARS",
+    "mark": "11,533"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Eléctrica",
+    "mark": "10,450"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Electrónica de Comunicaciones",
+    "mark": "8,361"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Electrónica Industrial y Automática",
+    "mark": "10,670"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería en Diseño Industrial y Desarrollo de Producto",
+    "mark": "12,461"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a Sistemas Informáticos Distribuidos y Embebidos (PARS",
+    "mark": "8,728"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Metalúrgica de las Materias Primas / Ing. en Recursos Energéticos",
+    "mark": "8,390"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería en Tecnologías Aeroespaciales",
+    "mark": "12,363"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería en Tecnologías Ambientales",
+    "mark": "6,464"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería en Tecnologías Industriales",
+    "mark": "12,114"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Forestal",
+    "mark": "5,404"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Geomática",
+    "mark": "6,686"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a Industrial (PARS",
+    "mark": "13,525"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Informática",
+    "mark": "10,175"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a Informática (PARS",
+    "mark": "11,425"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Mecánica",
+    "mark": "11,867"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniero/a Naval y Oceánica (PARS",
+    "mark": "11,978"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Química (Castellana",
+    "mark": "11,707"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Química (Embajadores",
+    "mark": "10,883"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Telemática",
+    "mark": "8,540"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería y Sistemas de datos (Campus Moncloa",
+    "mark": "11,128"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Matemáticas e Informática",
+    "mark": "11,507"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Sistemas de Información",
+    "mark": "9,080"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Tecnologías para la Sociedad de la Información",
+    "mark": "8,190"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Edificación - Administración y Dirección de Empresas",
+    "mark": "8,115"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Civil y Territorial - Administración y Dirección de Empresas",
+    "mark": "10,741"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Eléctrica - Ingeniería Electrónica Industrial y Automática",
+    "mark": "11,361"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Electrónica de Comunicaciones - Ingeniería Telemática",
+    "mark": "8,214"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería en Diseño Industrial y Desarrollo de Producto - Ingeniería Mecánica",
+    "mark": "12,878"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería Informática - Administración y Dirección de Empresas",
+    "mark": "11,589"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Ingeniería y Sistemas de Datos e Ingeniería Telemática (Campus Sur",
+    "mark": "8,828"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Diseño de Moda (UPM) y Comercio (UCM",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "career": "Diseño de Moda",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Artes Visuales y Danza (Fuenlabrada",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Bellas Artes (Aranjuez",
+    "mark": "8,564"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Diseño Integral y Gestión de la Imagen (Aranjuez",
+    "mark": "9,846"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Diseño Integral y Gestión de la Imagen (Madrid",
+    "mark": "11,500"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Diseño y Gestión de Moda (Aranjuez",
+    "mark": "10,018"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Filosofía (Fuenlabrada",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Historia (Fuenlabrada",
+    "mark": "6,100"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "HIstoria del Arte y Patrimonio Cultural (Aranjuez",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Lengua y Literatura Española (Fuenlabrada",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Traducción e Interpretación (Aranjuez",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Traducción e Interpretación (Fuenlabrada",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Biología (Móstoles",
+    "mark": "9,950"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia y Tecnología de los Alimentos (Móstoles",
+    "mark": "8,149"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia y Tecnología del Agua",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencias Ambientales (Móstoles",
+    "mark": "7,553"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencias Experimentales (Móstoles",
+    "mark": "7,661"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Matemáticas (Móstoles",
+    "mark": "11,753"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Nanociencia y Nanotecnología (Móstoles",
+    "mark": "10,214"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Enfermería (Alcorcón",
+    "mark": "11,675"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Farmacia (Alcorcón",
+    "mark": "11,778"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Fisioterapia (Alcorcón",
+    "mark": "10,954"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Medicina (Alcorcón",
+    "mark": "12,932"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Odontología (Alcorcón",
+    "mark": "12,590"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Psicología (Alcorcón",
+    "mark": "10,989"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Terapia Ocupacional (Alcorcón",
+    "mark": "9,128"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia e Ingeniería de Datos (Fuenlabrada",
+    "mark": "10,403"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Diseño y Desarrollo de Videojuegos (Madrid",
+    "mark": "9,489"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Diseño y Desarrollo de Videojuegos (Móstoles",
+    "mark": "9,404"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Fundamentos de la Arquitectura (Fuenlabrada",
+    "mark": "10,428"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Aeroespacial (Fuenlabrada",
+    "mark": "12,114"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Ambiental (Móstoles",
+    "mark": "7,848"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Biomédica (Fuenlabrada",
+    "mark": "12,339"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Biomédica (inglés) (Fuenlabrada",
+    "mark": "12,139"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería de Computadores (Móstoles",
+    "mark": "9,186"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería de la Ciberseguridad (Móstoles",
+    "mark": "10,803"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería de la Energía (Móstoles",
+    "mark": "10,040"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería de Materiales (Móstoles",
+    "mark": "9,525"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería de Robótica Software (Fuenlabrada",
+    "mark": "9,814"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería del Software (Móstoles",
+    "mark": "9,986"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Electrónica Industrial y Automática (Móstoles",
+    "mark": "10,075"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería en Organización Industrial (Móstoles",
+    "mark": "11,257"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería en Organización Industrial (Vicalvaro",
+    "mark": "10,950"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería en Tecnologías de la Telecomunicación (Fuenlabrada",
+    "mark": "8,150"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería en Tecnologías Industriales (Móstoles",
+    "mark": "10,952"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Informática (Móstoles",
+    "mark": "10,503"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Informática (Vicalvaro",
+    "mark": "10,036"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Mecánica (Móstoles",
+    "mark": "11,378"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Química (Móstoles",
+    "mark": "10,481"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Inteligencia Artificial (Móstoles",
+    "mark": "10,428"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Paisajismo (Fuenlabrada",
+    "mark": "6,930"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas (Fuenlabrada",
+    "mark": "8,714"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas (Inglés) (Vicalvaro",
+    "mark": "8,925"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Direccion de Empresas (Móstoles",
+    "mark": "8,838"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas (Vicalvaro",
+    "mark": "8,450"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas (A Distancia) (Vicalvaro",
+    "mark": "8,140"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia Política y Gestión Pública (Fuenlabrada",
+    "mark": "7,441"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia Política y Gestión Pública (Vicalvaro",
+    "mark": "7,427"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia, Gestión e Ingeniería de Servicios (Madrid",
+    "mark": "8,080"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia, Gestión e Ingeniería de Servicios (Semipresencial) (Vicalvaro",
+    "mark": "7,200"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencias de la Actividad Física y del Deporte (Fuenlabrada",
+    "mark": "10,625"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Comunicación Audiovisual (Fuenlabrada",
+    "mark": "8,560"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Comunicación Audiovisual (Vicalvaro",
+    "mark": "9,115"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Comunicación Digital (Fuenlabrada",
+    "mark": "9,138"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Contabilidad y Finanzas (Fuenlabrada",
+    "mark": "8,300"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Contabilidad y Finanzas (Móstoles",
+    "mark": "8,288"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Contabilidad y Finanzas (A Distancia) (Vicálvaro",
+    "mark": "7,920"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Contabilidad y Finanzas (Vicalvaro",
+    "mark": "9,039"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Criminología (Alcorcón",
+    "mark": "10,087"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Criminología (Vicalvaro",
+    "mark": "10,461"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho (Fuenlabrada",
+    "mark": "9,166"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho (Móstoles",
+    "mark": "8,889"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho (Vicalvaro",
+    "mark": "8,723"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho (Semipresencial) (Vicalvaro",
+    "mark": "8,111"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Dirección y Gestión de Empresas en el Ámbito Digital (Vicálvaro",
+    "mark": "9,903"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía (Fuenlabrada",
+    "mark": "9,078"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía (Inglés) (Madrid",
+    "mark": "6,989"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía (Móstoles",
+    "mark": "8,365"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía (Vicalvaro",
+    "mark": "8,475"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía Financiera y Actuarial (Móstoles",
+    "mark": "8,805"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía Financiera y Actuarial (Vicalvaro",
+    "mark": "9,564"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Educación Infantil (Fuenlabrada",
+    "mark": "9,140"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Educación Infantil (Inglés) (Vicalvaro",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Educación Infantil (Móstoles",
+    "mark": "8,910"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Educación Infantil (Semipresencial) (Vicalvaro",
+    "mark": "8,670"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Educación Primaria (Semipresencial) (Vicalvaro",
+    "mark": "9,014"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Gastronomía (Aranjuez",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Inteligencia, Seguridad y Diplomacia (Madrid-Quintana",
+    "mark": "7,303"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Lengua de Signos Española y Comunidad Sorda (Alcorcón",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Lengua de Signos Española y Comunidad Sorda (Madrid-Quintana",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Marketing (Aranjuez",
+    "mark": "8,330"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Marketing (Fuenlabrada",
+    "mark": "10,199"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Marketing (Móstoles",
+    "mark": "9,728"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Marketing (Inglés) (Vicalvaro",
+    "mark": "9,458"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Marketing (Vicalvaro",
+    "mark": "10,624"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Periodismo (Fuenlabrada",
+    "mark": "7,930"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Periodismo (Semipresencial) (Fuenlabrada",
+    "mark": "7,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Periodismo (Vicalvaro",
+    "mark": "7,352"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Protocolo, Organización de Eventos y Com. Corporativa (Inglés) (Madrid",
+    "mark": "7,770"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Protocolo, Organización de Eventos y Com. Corporativa (Vicalvaro",
+    "mark": "9,625"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Publicidad y Relaciones Públicas (Fuenlabrada",
+    "mark": "10,311"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Publicidad y Relaciones Públicas (Semipresencial) (Fuenlabrada",
+    "mark": "8,889"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Publicidad y Relaciones Públicas (Vicalvaro",
+    "mark": "10,064"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Relaciones Internacionales (Aranjuez",
+    "mark": "10,116"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Relaciones Internacionales (Fuenlabrada",
+    "mark": "10,992"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Relaciones Internacionales (Inglés) (Vicalvaro",
+    "mark": "10,632"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Relaciones Laborales y Recursos Humanos (Alcorcón",
+    "mark": "7,540"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Relaciones Laborales y Recursos Humanos (Vicalvaro",
+    "mark": "7,328"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Trabajo Social (Alcorcón",
+    "mark": "8,710"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Turismo (Fuenlabrada",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Turismo (Inglés) (Vicalvaro",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Turismo (Vicalvaro",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Turismo (Semipresencial) (Vicalvaro",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas - Derecho (Fuenlabrada",
+    "mark": "7,636"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas - Derecho (Madrid",
+    "mark": "8,536"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas - Derecho (Móstoles",
+    "mark": "8,461"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas - Derecho (Vicalvaro",
+    "mark": "9,289"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas - Marketing (Vicálvaro",
+    "mark": "12,014"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Bellas Artes - Diseño Integral y Gestión de la Imagen (Aranjuez",
+    "mark": "11,685"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Bellas Artes (Presencial) (Aranjuez) - Turismo (Semipresencial) (Vicalvaro",
+    "mark": "8,461"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia Política y Gestión Pública - Derecho (Fuenlabrada",
+    "mark": "8,903"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia Política y Gestión Pública - Derecho (Vicalvaro",
+    "mark": "9,937"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia Política y Gestión Pública - Economía (Fuenlabrada",
+    "mark": "8,189"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia Política y Gestión Pública - Economía (Vicalvaro",
+    "mark": "10,025"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia Política y Gestión Pública - Periodismo (Fuenlabrada",
+    "mark": "8,775"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ciencia Política y Gestión Pública - Periodismo (Vicalvaro",
+    "mark": "10,164"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Comunicación Audiovisual - ADE (Fuenlabrada",
+    "mark": "8,339"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Contabilidad y Finanzas - Relaciones Laborales y RR.HH. (Vicalvaro",
+    "mark": "9,389"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Criminología - Derecho (Vicalvaro",
+    "mark": "12,433"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Criminología - Ingeniería Informática (Vicalvaro",
+    "mark": "10,867"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Criminología - Psicología (Alcorcón",
+    "mark": "12,314"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Criminología - Trabajo Social (Alcorcón",
+    "mark": "10,500"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho - Periodismo (Vicalvaro",
+    "mark": "11,378"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho - Relaciones Internacionales (Fuenlabrada",
+    "mark": "13,161"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho - Relaciones Internacionales (Inglés) (Vicálvaro",
+    "mark": "13,061"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho - Relaciones Laborales y Recursos Humanos (Vicalvaro",
+    "mark": "9,025"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho (Semipresencial) - Relac. Internac. (Inglés) (Presencial) (Vicalvaro",
+    "mark": "12,330"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Diseño y Desarrollo de Videojuegos - Ing. de Computadores (Móstoles",
+    "mark": "11,102"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Diseño y Gestión de Moda - Bellas Artes (Aranjuez",
+    "mark": "11,503"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Diseño y Gestión de Moda - Diseño Integral y Gest de la Imagen (Aranjuez",
+    "mark": "10,690"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía - Derecho (Fuenlabrada",
+    "mark": "10,475"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía - Derecho (Móstoles",
+    "mark": "11,078"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía - Derecho (Vicalvaro",
+    "mark": "11,728"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía - Historia (Fuenlabrada",
+    "mark": "6,689"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía - Matemáticas (Móstoles",
+    "mark": "12,489"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía - Periodismo (Vicalvaro",
+    "mark": "10,403"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía Financiera y Actuarial - ADE (Móstoles",
+    "mark": "11,153"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía Financiera y Actuarial - ADE (Vicalvaro",
+    "mark": "11,287"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía Financiera y Actuarial - Economía (Móstoles",
+    "mark": "10,036"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Economía Financiera y Actuarial - Economía (Vicalvaro",
+    "mark": "10,378"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Educación Infantil - Educación Primaria (Fuenlabrada",
+    "mark": "11,961"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Filosofía - Ciencia Política y Gestión Pública (Fuenlabrada",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Filosofía - Economía (Fuenlabrada",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Fundamentos de la Arquitectura - Paisajismo (Fuenlabrada",
+    "mark": "10,185"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Historia - Turismo (Fuenlabrada",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Historia (Presencial) (Fuenlabrada) - Turismo (Semipresencial) (Vicálvaro",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Ambiental - Ingeniería en Organización Industrial (Móstoles",
+    "mark": "9,903"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería de la Energía - Ingeniería Ambiental (Móstoles",
+    "mark": "10,373"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería de la Energia - Ingeniería en Organización Industrial (Móstoles",
+    "mark": "10,814"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería de Materiales - Ingeniería de la Energía (Móstoles",
+    "mark": "9,914"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería de Materiales - Ingeniería en Organización Industrial (Móstoles",
+    "mark": "10,478"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería del Software - Matemáticas (Móstoles",
+    "mark": "12,604"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Informática - ADE (Móstoles",
+    "mark": "11,678"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Informática - Ingeniería de Computadores (Móstoles",
+    "mark": "9,849"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Informática - Ingeniería del Software (Móstoles",
+    "mark": "11,323"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Informática - Matemáticas (Móstoles",
+    "mark": "13,089"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Química - Ingeniería en Organización Industrial (Móstoles",
+    "mark": "11,103"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Química - Ingeniería Ambiental (Móstoles",
+    "mark": "10,439"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Ingeniería Química - Ingeniería de la Energía (Móstoles",
+    "mark": "10,825"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Periodismo - Comunicación Audiovisual (Fuenlabrada",
+    "mark": "8,936"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Periodismo - Comunicación Audiovisual (Vicalvaro",
+    "mark": "8,553"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Publicidad y Relaciones Públicas - ADE (Fuenlabrada",
+    "mark": "10,046"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Publicidad y Relaciones Públicas - Marketing (Fuenlabrada",
+    "mark": "12,329"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Relaciones Internacionales - Economia (Fuenlabrada",
+    "mark": "11,492"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Relaciones Internacionales - Periodismo (Fuenlabrada",
+    "mark": "12,216"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Relaciones Laborales y RR.HH - Trabajo Social (Alcorcón",
+    "mark": "8,760"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Turismo - Administración y Dirección de Empresas (Fuenlabrada",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Turismo - Administración y Dirección de Empresas (Vicalvaro",
+    "mark": "7,653"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Turismo - Marketing (Vicalvaro",
+    "mark": "10,177"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Turismo (Semipresencial) - Marketing (Presencial) (Vicálvaro",
+    "mark": "9,289"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas - Derecho",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Criminología",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Criminología - Derecho",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Marketing",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Artes Escénicas - Interpretación Audiovisual",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Artes Escénicas e Interpretación Audiovisual (inglés",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Bellas Artes",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Cinematografía",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Cinematografía (inglés",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Composición Musical",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Composición Musical (inglés",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Fotografía y Creación Audiovisual",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas (A distancia",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Derecho (Semipresencial",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Marketing",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Protocolo, Organización de Eventos y Comunicación Corporativa",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas",
+    "mark": "5,000"
+  },
+  {
+    "college": "UNIVERSIDAD REY JUAN CARLOS",
+    "career": "Administración y Dirección de Empresas (A distancia",
+    "mark": "5,000"
+  }
+]
